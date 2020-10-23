@@ -27,9 +27,8 @@ let inkr = 10,
     dekr = 10;
 
 
-for (let i = 0; i < 5; i++ ){
+
     inkr++;
     dekr--;  
-    let b = inkr + dekr;
-    alert(b);
-}
+    
+    alert(inkr + dekr);
